@@ -1,0 +1,12 @@
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\bin\Debug\VB Todo App.exe.config
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\bin\Debug\VB Todo App.exe
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\bin\Debug\VB Todo App.pdb
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\bin\Debug\VB Todo App.xml
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\obj\Debug\VB Todo App.vbprojAssemblyReference.cache
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\obj\Debug\VB_Todo_App.Form1.resources
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\obj\Debug\VB_Todo_App.Resources.resources
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\obj\Debug\VB Todo App.vbproj.GenerateResource.cache
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\obj\Debug\VB Todo App.vbproj.CoreCompileInputs.cache
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\obj\Debug\VB Todo App.exe
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\obj\Debug\VB Todo App.xml
+D:\Belajar\visual basic\todo-app\VB Todo App\VB Todo App\obj\Debug\VB Todo App.pdb
